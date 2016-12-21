@@ -1,0 +1,17 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+img{
+    width:100%;
+    height: 100%;
+}
+body{
+    display: -webkit-box;
+    -webkit-box-orient:center;
+}
+div a{
+    text-decoration: none;
+    color:green;
+    position: center;
+}
